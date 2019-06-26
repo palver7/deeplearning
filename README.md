@@ -1,2 +1,2 @@
-# deeplearning-
+# deeplearning
 repository for deep learning projects
